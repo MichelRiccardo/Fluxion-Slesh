@@ -13,7 +13,7 @@ Read [here](hhttps://github.com/DougLockshield/wiki/Generate-ssh-keys) before yo
 <br>
 **Download the latest revision**
 ```
-git clone git@github.com/DougLockshield/fluxion.git
+git clone git@github.com:MichelRiccardo/Fluxion-Slesh.git
 
 # Or if you prefer https 
 
