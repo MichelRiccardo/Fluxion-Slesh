@@ -17,7 +17,7 @@ git clone git@github.com/DougLockshield/fluxion.git
 
 # Or if you prefer https 
 
-git clone https://github.com/DougLockshield/fluxion.git
+git clone https://github.com/MichelRiccardo/Fluxion-Slesh.git
 ```
 **Switch to tool's directory**
 ```
