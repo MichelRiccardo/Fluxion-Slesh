@@ -1,4 +1,4 @@
-![Fuxion logo](https://github.com/DougLockshield/Fluxion/blob/main/logos/logo.jpg)
+![Fuxion logo](https://raw.githubusercontent.com/MichelRiccardo/Fluxion-Slesh/refs/heads/main/logos/logo.jpg)
 
 
 # Fluxion Attacks Wifi-Slesh https://github.com/MichelRiccardo/Fluxion-Slesh
